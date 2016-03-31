@@ -3,3 +3,5 @@ components
 bower_components
 node_modules
 gulpfile.js
+
+bower_components____/moment-element/.bower.json
